@@ -3,3 +3,8 @@
 ```bash
 http://localhost/back.php?key=get
 ```
+
+# Демо данные
+<a href="http://web-ahtarsk.ru/back.php?key=get>JSON на прямую из PHP [MySQL]</a>
+
+<a href="http://web-ahtarsk.ru/back.php?key=get>Страница с фронтом получения JSON из PHP [MySQL]</a>
