@@ -9,4 +9,4 @@ JSON на прямую из PHP [MySQL]
 http://web-ahtarsk.ru/back.php?key=get
 
 Страница с фронтом получения JSON из PHP [MySQL]
-http://web-ahtarsk.ru/back.php?key=get>
+http://web-ahtarsk.ru/back.php
