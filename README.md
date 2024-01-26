@@ -5,6 +5,8 @@ http://localhost/back.php?key=get
 ```
 
 # Демо данные
-<a href="http://web-ahtarsk.ru/back.php?key=get>JSON на прямую из PHP [MySQL]</a>
+JSON на прямую из PHP [MySQL]
+http://web-ahtarsk.ru/back.php?key=get
 
-<a href="http://web-ahtarsk.ru/back.php?key=get>Страница с фронтом получения JSON из PHP [MySQL]</a>
+Страница с фронтом получения JSON из PHP [MySQL]
+http://web-ahtarsk.ru/back.php?key=get>
